@@ -1,0 +1,24 @@
+h1 {
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h1 {font-size: 250%;
+    color: rgb(255, 0, 60);
+}
+h1 {border-style: solid;
+    border-color: chocolate;
+     border-width: 4px;
+}
+    h1 {margin-left: 20%;
+    }
+
+h1 {padding-left: 20%;
+}
+.parte1 {border-style: solid;
+    border-color: rgb(30, 210, 81);
+     border-width: 8px;
+    }
+    .parte1 {background-color: aquamarine;
+    }
+    
