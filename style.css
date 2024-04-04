@@ -4,7 +4,7 @@ h1 {
     font-style: normal;
   }
   h1 {font-size: 500%;
-    color: rgb(238, 255, 0);
+    color: rgb(0, 163, 41);
 }
 h1 {border-style: solid;
     border-color: rgb(105, 30, 210);
@@ -16,9 +16,9 @@ h1 {border-style: solid;
 h1 {padding-left: 20%;
 }
 .parte1 {border-style: solid;
-    border-color: rgb(174, 210, 30);
+    border-color: rgb(148, 0, 0);
      border-width: 8px;
     }
-    .parte1 {background-color: aquamarine;
+    .parte1 {background-color: rgb(129, 127, 255);
     }
     
